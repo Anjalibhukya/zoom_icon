@@ -4,14 +4,12 @@
     justify-content: space-around;
     align-items: center;
     border: 2px solid;
-    height: 150px;
-    width: 1500px;
-    margin-left: 850px;
+    height: 100px;
+    width: 1000px;
+    margin-left: 200px;
     background-color: black;
     color: white;
     font-size: 20px;
     border-radius: 20px;
-    margin-top: 400px;
-    font-size: 20px;
-    padding: 15px;
+    margin-top: 200px;
 }
